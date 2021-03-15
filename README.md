@@ -1,4 +1,6 @@
-# Cancer-Drug-Response-Prediction
+# Cancer-Drug-Response Prediction
+The research project is completed for the Bioinformatics Algorithms Course at Computer Science, Purdue University. 
+
 
 
 You need to have the dataset in a data folder. 
